@@ -120,7 +120,9 @@ article, aside, dialog, footer, header, section, footer, nav, figure, menu { dis
 */
 .resume-download { z-index: 10; position: fixed; right: 15px; bottom: 20px; padding: 8px; border-radius: 3px; line-height: 1; background-color: #050505; }
 .resume-download .resume-download-link { cursor: pointer; color: #fff; font-size: 14px; }
+.resume-download .resume-download-split { background-color:silver; border-radius: 3px; margin: 0 7px;}
 .resume-download .fa-file-pdf-o { margin-right: 5px; }
+.resume-download .fa-eye { margin-right: 5px; }
 
 
 /*!
