@@ -1,0 +1,15 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+node_modules/
+npm-debug.log*
+package-lock.json
+
+.DS_Store
+.cache
+.rdoc-dist
+.vscode
+
